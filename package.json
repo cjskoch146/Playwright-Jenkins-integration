@@ -1,0 +1,22 @@
+{
+  "name": "playwright-jenkins-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjskoch146/Playwright-Jenkins-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjskoch146/Playwright-Jenkins-integration/issues"
+  },
+  "homepage": "https://github.com/cjskoch146/Playwright-Jenkins-integration#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.0",
+    "@types/node": "^20.6.3"
+  }
+}
